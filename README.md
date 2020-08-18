@@ -1,5 +1,3 @@
-<h2 align="center">👋 Hello! I'm Otávio.</h2>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Perkles">
 </p>
@@ -15,7 +13,6 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="otavioperkles" height="20" width="20" />
   </a>
 </p>
-
 
 <details>
   <summary>Hackathons</summary>
