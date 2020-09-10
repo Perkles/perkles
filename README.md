@@ -37,5 +37,6 @@
   | Managing successful repos with github Workflow | Workshop | Instructor | CampusParty2019 | 2019-02-16
   | The importance of been in a community and how GitHub can help you on that journey | Talk | Speaker | CampusParty2019 | 2019-02-14
   | Whats GitHub and why it's loved by Developers | Talk | Speaker | CampusParty2019 | 2019-02-14
+  | Introduction to Git & GitHub | Online Free Course | Instructor | Digital Inovation one | 2020-09-09
   
 </details>
