@@ -1,21 +1,25 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Perkles&show_icons=true&theme=dracula">
+  <img align="left" height="193" src="https://github-readme-stats.vercel.app/api?username=Perkles&show_icons=true&theme=dracula">
+  <img align="right" height="193" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=perkles&layout=compact&theme=dracula" />
 </p>
+
 
 <p align="center">
   <a href="https://dev.to/perkles" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="perkles" height="20" width="20" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="perkles" height="50" width="50" />
   </a>
   <a href="https://twitter.com/otavioperkles" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="otavioperkles" height="20" width="20" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="otavioperkles" height="50" width="50" />
   </a>
   <a href="https://linkedin.com/in/otavioperkles" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="otavioperkles" height="20" width="20" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="otavioperkles" height="50" width="50" />
   </a>
   <a href="https://www.twitch.tv/operkles" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="otavioperkles" height="20" width="20" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="otavioperkles" height="50" width="50" />
   </a>
 </p>
+
+Confira eventos que eu participei, organanizei ou contribui
 
 <details>
   <summary>Hackathons</summary>
