@@ -16,7 +16,7 @@
   <a href="https://linkedin.com/in/otavioperkles" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="otavioperkles" height="35" width="35" />
   </a>
-  <a href="https://www.twitch.tv/operkles" target="blank">
+  <a href="https://www.twitch.tv/operkles/about" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="otavioperkles" height="35" width="35" />
   </a>
 </p>
