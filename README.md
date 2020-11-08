@@ -4,21 +4,6 @@
 </p>
 
 
-<p align="center">
-  <a href="https://dev.to/perkles" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="perkles" height="50" width="50" />
-  </a>
-  <a href="https://twitter.com/otavioperkles" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="otavioperkles" height="50" width="50" />
-  </a>
-  <a href="https://linkedin.com/in/otavioperkles" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="otavioperkles" height="50" width="50" />
-  </a>
-  <a href="https://www.twitch.tv/operkles" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="otavioperkles" height="50" width="50" />
-  </a>
-</p>
-
 Confira eventos que eu participei, organanizei ou contribui
 
 <details>
