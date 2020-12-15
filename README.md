@@ -7,16 +7,16 @@
 </p>
 
 <p align="center">
-  <a href="https://dev.to/perkles" target="blank">
+  <a href="https://dev.to/perkles" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="perkles" height="35" width="35" />
   </a>
-  <a href="https://twitter.com/otavioperkles" target="blank">
+  <a href="https://twitter.com/otavioperkles" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="otavioperkles" height="35" width="35" />
   </a>
-  <a href="https://linkedin.com/in/otavioperkles" target="blank">
+  <a href="https://linkedin.com/in/otavioperkles" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="otavioperkles" height="35" width="35" />
   </a>
-  <a href="https://www.twitch.tv/operkles/about" target="blank">
+  <a href="https://www.twitch.tv/operkles/about" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="otavioperkles" height="35" width="35" />
   </a>
 </p>
